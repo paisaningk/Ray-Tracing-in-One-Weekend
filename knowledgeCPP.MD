@@ -9,4 +9,6 @@ vec3& operator*=(const double t){
         return *this;
     }
 ```
-มันฟิลแบบ vec3 *= vec3 ประมานนี้
+<p> มันฟิลแบบ vec3 *= vec3 ประมานนี้</p>
+
+<p> std::cerr แสดงข้อความที่ cmd ด้วย</p>
